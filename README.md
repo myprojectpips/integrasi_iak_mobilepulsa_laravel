@@ -1,4 +1,4 @@
-<h3>Integrasi Xendit Laravel</h3>
+<h3>Integrasi IAK MobilePulsa Laravel</h3>
 
 <hr>
 
@@ -20,5 +20,5 @@
 </pre>
 
 <p>
-    <strong>NOTE : </strong> Disini saya menyediakan core api dengan EWALLET, Virtual Account, dan QR Code/QRIS. Nanti saya akan menambahkannya lagi.
+    <strong>NOTE : </strong> Disini saya menyediakan integrasi PPOB dengan pulsa, ewallet, dan saya akan update lagi mengenai topup nya.
 </p>
