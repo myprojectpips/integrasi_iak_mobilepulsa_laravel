@@ -22,3 +22,8 @@
 <p>
     <strong>NOTE : </strong> Disini saya menyediakan integrasi PPOB dengan pulsa, ewallet, dan saya akan update lagi mengenai topup nya.
 </p>
+
+<p>
+    Laravel Version : 9 <br>
+    PHP Version : 8
+</p>
